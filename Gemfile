@@ -5,3 +5,6 @@ gem "sinatra-contrib"
 gem "erubis"
 
 gem "pg"
+gem "puma"
+
+ruby "2.5.1"
